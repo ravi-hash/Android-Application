@@ -1,9 +1,9 @@
 # Android-Application
 
-* Dataset file contains.
+* This Application provide some improvement features.
 
-   * URL: contains the URL of the restaurant on the zomato website
+   * You can get details of your land easily.
 
     * address=contains the address of the restaurant in Bengaluru
 
-name: contains the name of the restaurant
+     * name: contains the name of the restaurant
