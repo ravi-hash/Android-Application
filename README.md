@@ -4,7 +4,7 @@
 
 ![IMG_20230108_210035](https://user-images.githubusercontent.com/53385448/211205548-6a55e68d-ed0d-4c04-b751-777f9f504dbc.png)
 
-   * We can get details of your land easily.
+   * We can get our land record easily.
    
      
 
