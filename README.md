@@ -1,6 +1,6 @@
 # Android-Application
 
-* This Application provide some ad-free necessary features.
+ This Application provide some ad-free necessary features.
 
 ![IMG_20230108_210035](https://user-images.githubusercontent.com/53385448/211205548-6a55e68d-ed0d-4c04-b751-777f9f504dbc.png)
 
